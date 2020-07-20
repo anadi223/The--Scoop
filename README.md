@@ -1,14 +1,16 @@
 # news_app
 
-A new Flutter application.
+A news app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is based on integrating firebase and rest api.
+The rest api I used was from NewsApi.org.
+Ui is kept simple for user friendly interaction.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+-https://newsapi.org/
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
